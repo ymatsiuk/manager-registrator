@@ -1,0 +1,1 @@
+Service which register external service in Consul
