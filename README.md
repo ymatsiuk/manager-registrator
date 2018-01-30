@@ -1,1 +1,1 @@
-Service which register external service in Consul
+Service which register swarm leader as external service in Consul
